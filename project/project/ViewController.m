@@ -35,6 +35,11 @@
 {
     NSLog(@"%@", @"第一次reset");
 }
+
+-(void)pro5
+{
+    NSLog(@"%@", @"第五次reset");
+}
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
