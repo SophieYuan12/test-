@@ -21,7 +21,7 @@
     
 }
 
-<<<<<<< HEAD
+
 -(void)pro1
 {
     NSLog(@"%@", @"第一次修改");
@@ -31,11 +31,16 @@
     NSLog(@"%@", @"第二次修改");
 }
 
-<<<<<<< HEAD
-=======
->>>>>>> parent of 663ce31... 第一次修改
-=======
->>>>>>> parent of 9432a8b... 第三次修改
+-(void)pro3
+{
+    NSLog(@"%@", @"第三次修改");
+}
+
+-(void)pro4
+{
+    NSLog(@"%@", @"第四次修改");
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
