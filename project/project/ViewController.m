@@ -21,7 +21,7 @@
     
 }
 
-
+<<<<<<< HEAD
 -(void)pro1
 {
     NSLog(@"%@", @"第一次修改");
@@ -32,33 +32,10 @@
 }
 
 <<<<<<< HEAD
--(void)pro4
-{
-    NSLog(@"%@", @"第一次reset");
-}
-<<<<<<< HEAD
-<<<<<<< HEAD
-
--(void)pro5
-{
-    NSLog(@"%@", @"第五次reset");
-}
 =======
+>>>>>>> parent of 663ce31... 第一次修改
 =======
--(void)pro3
-{
-    NSLog(@"%@", @"第三次修改");
-}
-
--(void)pro4
-{
-    NSLog(@"%@", @"第四次修改");
-}
-
->>>>>>> 5d1227bc0db13638222fc882ccdee3abc181e1d1
->>>>>>> e59a18df53ba4d27a1427e283a868209514778f7
-=======
->>>>>>> parent of 0731312... 回滚后重新提交
+>>>>>>> parent of 9432a8b... 第三次修改
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
